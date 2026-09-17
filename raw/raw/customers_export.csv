@@ -1,0 +1,63 @@
+id;name;tax_id;email;phone;city;signup_date
+001;MICHAEL CHEN;533963605; michael.chen@company.com;(305) 355-9115;NY;2025-09-19
+2.0;  John Pedro Alves;702621745;n/a;+1 305 7467226;Berlin;September 2, 2025
+3;Fernanda Souza;43-1611724; fernanda.souza@gmail.com;312-5677141;NY;17-Apr-2025
+004;Priya Raghavan;221-96-9379;priya.raghavan@company.com ;312-8821153;são paulo;18/11/2025
+5.0;Fernanda Souza;946-47-4367;fernanda.souza@company.com ;(312) 916-5837;london ;May 1, 2025
+006;Carlos Eduardo Lima;439533942; carlos.eduardo.lima@gmail.com;2127936977;new york;45788
+7;Thiago Martins   ;858842474;thiago.martins@GMAIL.COM;212-3444696;Toronto;03-Jun-2025
+8.0;Ana  Beatriz Rocha;754-96-5137; ana.beatriz.rocha@gmial.com;415-8632035;são paulo;11/14/2025
+9;Mariana Castro;471138267; mariana.castro@gmial.com;(305) 358-7797;Berlin;2025-10-14
+0010;CARLOS EDUARDO LIMA;773515850;carlos.eduardo.lima@hotmail.com;1-646-293-4475;New York;2025-01-26
+11;Bruno Tavares;318 393 352;bruno.tavares@gmial.com;+1 415 3339850;NY;02/22/2025
+12;MARIANA CASTRO;395024026; mariana.castro@gmail.com;312-7252786;Toronto;04/20/2025
+13.0;sarah o'brien;00-7661771;sarah.obrien@GMAIL.COM ;+1 415 4819984;london ;2025-10-17
+0014;Vanessa Cardoso;118 367 365; vanessa.cardoso@company.com;+1 312 6376120;London;22-Mar-2025
+15;Fernanda Souza;161528098; fernanda.souza@gmail.com;(305) 968-7929;são paulo;2025-10-10
+0016;John  Pedro Alves;273158514;john.pedro.alves@company.com ;1-718-828-1430;são paulo;2025-01-06
+17.0;DIEGO MORAES;229-61-2018; diego.moraes@company.com;1-312-519-6314;TORONTO;02/02/2025
+0018;  Rafael Nogueira;147-67-9764;rafael.nogueira@gmial.com;1-212-490-8972;são paulo;08-Jan-2025
+19;  Tomás Núñez;432445107;tomas.nunez@hotmail.com;1-305-435-9196;London;45701
+20.0;  Carlos Eduardo Lima;159696641;carlos.eduardo.lima@GMAIL.COM;(718) 671-6928;london ;08-Feb-2025
+006;Carlos Eduardo Lima;439533942; carlos.eduardo.lima@gmail.com;2127936977;new york;45788
+21.0;Priya  Raghavan;645352181; priya.raghavan@hotmail.com;(305) 351-4871;NY;07/05/2025
+22;Tomás Núñez;127-79-9799;tomas.nunez@GMAIL.COM;+1 646 6525961;TORONTO;January 12, 2025
+23.0;fernanda souza;005411998;fernanda.souza@gmial.com ;1-305-242-8368;Sao Paulo;20-Jun-2025
+24;Sarah O'Brien;71-5182037;sarah.obrien@gmial.com ;312-5815634;london ;June 22, 2025
+0025;Carlos Eduardo Lima;151-86-4492;carlos.eduardo.lima@gmial.com ;3125177421;TORONTO;2025-12-03
+26.0;Michael Chen;528-16-8505; michael.chen@hotmail.com;6463964711;NY;02/10/2025
+0027;Sarah O'Brien;805-92-9622;sarah.obrien@gmial.com;2126206968;Berlin;45940
+28;Vanessa  Cardoso;473597746;vanessa.cardoso@company.com;(718) 341-5096;Berlin;06/18/2025
+29;Sarah O'Brien   ;24-7826137;#N/A;(312) 441-7326;London;2025-04-01
+0030;John Pedro Alves;220-47-2779;john.pedro.alves@gmail.com;415-7619647;new york;2025-05-08
+0010;CARLOS EDUARDO LIMA;773515850;carlos.eduardo.lima@hotmail.com;718-6349715;New York;2025-01-26
+31;John Pedro Alves   ;971179808; john.pedro.alves@hotmail.com;1-718-561-4941;london ;45738
+0032;Fernanda Souza;188-88-8067; fernanda.souza@company.com;+1 212 5652106;Sao Paulo;46013
+0033;John Pedro Alves;520585277;john.pedro.alves@hotmail.com;6462375807;New York;2025-04-02
+0034;DIEGO MORAES;874-03-4505; diego.moraes@GMAIL.COM;+1 305 6507334;NY;23-Aug-2025
+0035;Lucas Ferreira   ;161-69-2845;lucas.ferreira@GMAIL.COM ;6468177981;Berlin;06/15/2025
+0036;Lucas Ferreira;401 658 202;lucas.ferreira@company.com;+1 415 9977001;london ;October 2, 2025
+0037;mariana castro;557-19-2856;mariana.castro@GMAIL.COM;212-9534048;Toronto;07/18/2025
+38.0;Camila Andrade;394-73-1217;camila.andrade@company.com;(312) 883-6692;Toronto;2025-09-10
+0039;Rafael Nogueira;258-31-3237;rafael.nogueira@gmial.com ;(718) 332-2412;são paulo;45861
+0040;gustavo pinheiro;691-25-1778;gustavo.pinheiro@gmial.com ;(415) 643-9238;new york;2025-09-05
+41;RAFAEL NOGUEIRA;358-41-4384;rafael.nogueira@GMAIL.COM ;1-718-856-3762;TORONTO;45722
+0042;Tomás Núñez;590 010 943;tomas.nunez@company.com ;+1 646 8429938;são paulo;45877
+43.0;renata barbosa;027-67-7359;renata.barbosa@GMAIL.COM ;+1 312 6083142;Toronto;2025-09-04
+44.0;  Bruno Tavares;732-10-4696; bruno.tavares@hotmail.com;3055204110;Berlin;15-Sep-2025
+45.0;  Diego Moraes;687-33-9500;diego.moraes@gmial.com ;(312) 749-1133;london ;45725
+46.0;LUCAS FERREIRA;609835841;lucas.ferreira@company.com ;7188962946;new york;2025-07-12
+47.0;Michael Chen;398680002;michael.chen@company.com ;+1 718 7273290;TORONTO;06-Jun-2025
+0048;Tomás Núñez;958 887 947; tomas.nunez@GMAIL.COM;(646) 797-6040;TORONTO;45878
+0049;Priya Raghavan   ;097-28-9623;n/a;6463557765;london ;September 25, 2025
+0050;Gustavo Pinheiro;28-3857865;gustavo.pinheiro@company.com ;1-312-892-5331;Berlin;2025-04-08
+51.0;Michael Chen   ;443-75-7584;michael.chen@gmial.com ;+1 646 5533399;New York;05/23/2025
+52.0;Lucas Ferreira;733848421;lucas.ferreira@gmial.com;3057434697;New York;2025-02-14
+53;Gustavo Pinheiro;208-26-7734;gustavo.pinheiro@gmail.com;4157471611;london ;02-Mar-2025
+54;Gustavo Pinheiro;400499154;gustavo.pinheiro@gmial.com ;+1 415 7168668;Sao Paulo;11/02/2025
+0055;Vanessa Cardoso   ;205 493 296; ;+1 415 3438822;Sao Paulo;09-Jan-2025
+56.0;Bruno Tavares;549904530; bruno.tavares@company.com;(305) 714-6095;são paulo;20/06/2025
+57;bruno tavares;795687833;bruno.tavares@gmial.com;(718) 920-6927;TORONTO;February 2, 2025
+58;Sarah O'Brien;225-87-1397; sarah.obrien@gmial.com;646-3359409;Berlin;October 2, 2025
+0059;Vanessa Cardoso;064-03-9106;vanessa.cardoso@gmail.com ;+1 212 6831519;london ;25/03/2025
+60.0;Thiago Martins;676-61-8251; thiago.martins@gmial.com;(305) 428-1056;são paulo;45891

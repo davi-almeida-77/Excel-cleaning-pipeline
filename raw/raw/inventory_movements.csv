@@ -1,0 +1,71 @@
+movement_id;sku;type;qty;movement_date;operator;document
+1000.0;HED-088;outbound;12.00;2026-04-08;Vanessa Cardoso;INV 12345 / 12346
+1001;DET-031;IN;-50;February 12, 2026;John Pedro Alves;no document
+1002.0;PEN-042;ADJUST -;-38;September 21, 2026;Bruno Tavares;INV 12345 / 12346
+1003.0;HED-088;adjustment;-37;11/02/2026;Fernanda Souza;INV 12345 / 12346
+1,004;DET-031;OUT;-7;2026-02-19; ;INV 12345 / 12346
+1,005;MOU-001;inbound;14;16/06/2026;Mariana Castro;INV 12345 / 12346
+1006;NOT-100;OUTBOUND;20.00;19-Oct-2026;Lucas Ferreira;INV-86379
+1007;MON-027;outbound;4;10/17/2026;Michael Chen;INV-57086
+1008.0;NOT-100;adjustment;26.00;46170;Renata Barbosa;
+1009;MON-027;OUTBOUND;0;06/11/2026;Diego Moraes;
+1010.0;MOU-001;IN;0;01/03/2026;NULL;INV 12345 / 12346
+1011;SOA-055;adjustment;25.00;06/10/2026;Rafael Nogueira;INV 12345 / 12346
+1,012;SOA-055;outbound;37.00;12/08/2026;Carlos Eduardo Lima;INV-58310
+1,013;KEY-014;IN;34.00;16-Oct-2026;not informed;
+1,014;KEY-014;outbound;40;21-Aug-2026;Vanessa Cardoso;no document
+1015;PEN-042;IN;39.00;46215;Priya Raghavan;INV 12345 / 12346
+1,016;MOU-001;outbound;2.00;06-Oct-2026; ;no document
+1017;PEN-042;outbound;-48;March 20, 2026;Mariana Castro;
+1,018;NOT-100;ADJUST -;3.00;05/26/2026;Mariana Castro;INV 12345 / 12346
+1019;NOT-100;ADJUST -;-41;July 25, 2026;N/A;INV-25203
+1020;DET-031;outbound;-48;15-Mar-2026;Renata Barbosa;INV 12345 / 12346
+1021;BIS-019;OUT;34;January 10, 2026;Lucas Ferreira;no document
+1022;KEY-014;outbound;0;46182;Bruno Tavares;
+1,023;MON-027;OUT;36;09/11/2026;Ana Beatriz Rocha;INV-78847
+1024;NOT-100;outbound;17;November 15, 2026;not informed;
+1025.0;KEY-014;inbound;-9;10/21/2026;Rafael Nogueira;INV-71204
+1026;BIS-019;OUT;17;2026-11-15;Carlos Eduardo Lima;INV-53601
+1027;MON-027;ADJUST -;0;27/05/2026;#N/A;
+1028.0;DET-031;outbound;7;October 21, 2026;Camila Andrade;INV 12345 / 12346
+1,029;MOU-001;INBOUND;-25;46102;Patricia Ramos;INV-85319
+1030;DET-031;adjustment;26;September 23, 2026;null;no document
+1031;BIS-019;INBOUND;6.00;June 22, 2026;null;
+1032.0;BIS-019;OUTBOUND;20;46099;Lucas Ferreira;INV 12345 / 12346
+1033.0;MOU-001;OUTBOUND;-47;07-Dec-2026;#N/A;no document
+1034;MOU-001;INBOUND;22;18-Aug-2026;John Pedro Alves;INV 12345 / 12346
+1,035;MON-027;OUTBOUND;-3;28-Nov-2026;Ana Beatriz Rocha;INV-91051
+1,036;MON-027;INBOUND;4.00;04/23/2026;Vanessa Cardoso;INV-87469
+1037;HED-088;OUTBOUND;28.00;46057;Renata Barbosa;
+1038.0;MOU-001;IN;8.00;27/06/2026;Thiago Martins;
+1,039;MOU-001;IN;0;08/08/2026;Ana Beatriz Rocha;INV-20580
+1040.0;HED-088;outbound;0;46028;Mariana Castro;no document
+1041;NOT-100;IN;-45;46280;Gustavo Pinheiro;no document
+1042.0;SOA-055;OUTBOUND;13;June 14, 2026;Lucas Ferreira;
+1,043;NOT-100;outbound;-13;46259;Gustavo Pinheiro;INV-30940
+1044;PEN-042;OUTBOUND;0;01/21/2026;John Pedro Alves;
+1045.0;DET-031;inbound;0;March 26, 2026;Priya Raghavan;no document
+1046.0;COF-007;OUTBOUND;0;25/04/2026;Renata Barbosa;INV 12345 / 12346
+1047.0;BIS-019;IN;-40;16-Oct-2026;--;no document
+1048;MON-027;INBOUND;4.00;07/05/2026;John Pedro Alves;INV 12345 / 12346
+1049;NOT-100;outbound;-11;March 25, 2026;Michael Chen;INV 12345 / 12346
+1050.0;HED-088;ADJUST -;0;46281;Bruno Tavares;
+1,051;MOU-001;adjustment;3;05-Oct-2026;Sarah O'Brien;INV 12345 / 12346
+1052.0;SOA-055;INBOUND;-47;08/08/2026;Lucas Ferreira;INV-94887
+1,053;PEN-042;IN;46;16-Jan-2026;Vanessa Cardoso;
+1054;MOU-001;inbound;25;2026-06-21;Thiago Martins;
+1,055;COF-007;INBOUND;33;11/03/2026;Renata Barbosa;INV-91151
+1056.0;SOA-055;inbound;-46;12/06/2026;Patricia Ramos;INV 12345 / 12346
+1,057;NOT-100;OUTBOUND;0;2026-12-25;n/a;INV 12345 / 12346
+1058.0;DET-031;outbound;29;17/09/2026;NULL;no document
+1059.0;PEN-042;inbound;-10;04/02/2026;Sarah O'Brien;no document
+1,060;MON-027;ADJUST -;23;2026-07-22;--;no document
+1061;COF-007;ADJUST -;0;19-Jul-2026;Diego Moraes;
+1062;COF-007;outbound;10.00;2026-05-08;Vanessa Cardoso;
+1063;MON-027;IN;-45;18/12/2026;n/a;
+1064;MON-027;OUTBOUND;3.00;2026-08-09;Mariana Castro;
+1065.0;MOU-001;adjustment;0;2026-09-10;#N/A;no document
+1066;DET-031;outbound;-37;November 23, 2026;Vanessa Cardoso;INV 12345 / 12346
+1,067;SOA-055;inbound;-2;05-Jan-2026;;
+1068.0;PEN-042;OUTBOUND;0;46312;Fernanda Souza;
+1,069;HED-088;INBOUND;-24;46245;Thiago Martins;INV-58867

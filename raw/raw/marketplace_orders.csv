@@ -1,0 +1,50 @@
+﻿order_id,order_date,buyer,shipping_address,items,status,total,notes
+MKT90000,2026-04-16T08:20:00,Priya Raghavan,"899 Flower St, apt 100, new york",3x Neutral detergent 500ml; 2x Roasted coffee 500g; 1x Mechanical keyboard,cancelled," 1,188.81 ","partial refund, see ticket #4471"
+MKT90001,03/21/2026 12:00 AM,Carlos Eduardo Lima   ,"111 Flower St, apt 81, Berlin",1x Mechanical keyboard,In transit,$167.21,"partial refund, see ticket #4471"
+MKT90002,2026-04-14T20:05:00,fernanda souza,"690 15th Avenue, apt 116, NY",3x Whole grain biscuit,delivered,"EUR 902,71","Leave with the doorman, ""Mr. John"""
+MKT90003,2026-08-03T07:24:00,  Vanessa Cardoso,"18 Flower St, apt 90, London",3x Whole grain biscuit,In transit,1325.05,"Customer asked for delivery
+after 6pm"
+MKT90004,2026-03-14T19:43:00,  Mariana Castro,"703 King Road, apt 19, new york",2x Bluetooth headphones; 2x Wireless mouse; 3x 24-inch monitor,DELIVERED,235.82,"Customer asked for delivery
+after 6pm"
+MKT90005,2026-04-18T19:38:00,Renata Barbosa,"996 15th Avenue, apt 55, London",2x Notebook 200 sheets,awaiting payment,1317.47,
+MKT90006,2026-04-16T20:38:00,Tomás Núñez,"203 King Road, apt 96, london ",2x Wireless mouse; 2x Notebook 200 sheets,In transit, 224.01 ,
+MKT90007,01/26/2026 12:00 AM,Priya  Raghavan,"384 15th Avenue, apt 70, NY",3x Mechanical keyboard; 1x Wireless mouse,awaiting payment,USD1077.56,
+MKT90008,02/10/2026 12:00 AM,Thiago Martins,"421 King Road, apt 11, Toronto","1x Bluetooth headphones; 2x 24-inch monitor; 1x Ballpoint pen, blue",delivered,115.12,"Customer asked for delivery
+after 6pm"
+MKT90009,01/06/2026 12:00 AM,Thiago Martins,"474 Flower St, apt 79, TORONTO","3x Ballpoint pen, blue",CANCELLED, 790.32 ,"Customer asked for delivery
+after 6pm"
+MKT90010,02/16/2026 12:00 AM,Camila  Andrade,"390 Flower St, apt 17, são paulo",2x Mechanical keyboard; 2x Wireless mouse; 3x Roasted coffee 500g,DELIVERED,"EUR 764,43",
+MKT90011,2026-08-12T12:58:00,Lucas Ferreira,"271 Flower St, apt 99, new york",1x Mechanical keyboard; 1x Notebook 200 sheets; 1x Wireless mouse,awaiting payment,"$1,118.78",
+MKT90012,07/03/2026 12:00 AM,Patricia Ramos,"436 Flower St, apt 118, London",1x Mechanical keyboard; 3x Roasted coffee 500g,In transit,"EUR 511,13",
+MKT90013,2026-04-24T17:48:00,Ana Beatriz Rocha,"215 15th Avenue, apt 38, TORONTO",2x Bluetooth headphones; 2x Notebook 200 sheets,DELIVERED,$372.51,"partial refund, see ticket #4471"
+MKT90014,2026-01-05T22:17:00,Ana Beatriz Rocha,"11 15th Avenue, apt 98, london ","3x Ballpoint pen, blue; 1x Mechanical keyboard; 2x Notebook 200 sheets",CANCELLED, 637.19 ,"partial refund, see ticket #4471"
+MKT90015,06/26/2026 12:00 AM,Vanessa Cardoso,"96 King Road, apt 75, new york",3x 24-inch monitor; 3x Whole grain biscuit; 1x Mechanical keyboard,awaiting payment,"EUR 509,59","partial refund, see ticket #4471"
+MKT90016,04/15/2026 12:00 AM,bruno tavares,"976 Flower St, apt 26, NY",1x Mechanical keyboard; 2x 24-inch monitor; 2x Bluetooth headphones,DELIVERED,USD162.92,"Leave with the doorman, ""Mr. John"""
+MKT90017,01/22/2026 12:00 AM,Diego Moraes   ,"723 King Road, apt 78, New York",1x Roasted coffee 500g,delivered,$75.69,
+MKT90018,2026-02-01T01:53:00,Vanessa Cardoso,"776 King Road, apt 71, Sao Paulo",1x Neutral detergent 500ml,In transit,"(1,038.84)","Customer asked for delivery
+after 6pm"
+MKT90019,2026-03-03T10:07:00,Fernanda Souza   ,"610 King Road, apt 34, new york",1x Mechanical keyboard,CANCELLED,USD666.74,"partial refund, see ticket #4471"
+MKT90020,2026-05-09T14:56:00,Gustavo Pinheiro,"401 Flower St, apt 88, london ",1x Roasted coffee 500g,cancelled,"EUR 635,63","Customer asked for delivery
+after 6pm"
+MKT90021,08/18/2026 12:00 AM,CARLOS EDUARDO LIMA,"296 Flower St, apt 50, NY",1x Notebook 200 sheets; 3x Laundry powder 1kg,CANCELLED,$768.52,
+MKT90022,2026-06-25T18:14:00,Rafael Nogueira,"336 Flower St, apt 77, Sao Paulo","1x Ballpoint pen, blue",In transit,USD814.52,"partial refund, see ticket #4471"
+MKT90023,2026-06-19T00:45:00,Carlos Eduardo Lima,"599 Flower St, apt 109, london ",1x 24-inch monitor; 3x Bluetooth headphones,delivered,USD1259.94,"Leave with the doorman, ""Mr. John"""
+MKT90024,2026-04-01T16:30:00,Gustavo Pinheiro,"326 King Road, apt 23, Berlin",1x Mechanical keyboard,In transit,"(1,083.90)","Customer asked for delivery
+after 6pm"
+MKT90025,03/06/2026 12:00 AM,Patricia Ramos,"32 Flower St, apt 19, TORONTO",1x 24-inch monitor; 2x Mechanical keyboard; 3x Roasted coffee 500g,cancelled,984.29,"partial refund, see ticket #4471"
+MKT90026,2026-03-06T23:00:00,Michael Chen   ,"920 King Road, apt 119, TORONTO",2x Notebook 200 sheets; 2x 24-inch monitor,In transit,"(1,383.93)","Leave with the doorman, ""Mr. John"""
+MKT90027,02/27/2026 12:00 AM,bruno tavares,"589 King Road, apt 14, Berlin",3x Roasted coffee 500g,In transit,"338,24",
+MKT90028,07/12/2026 12:00 AM,  Lucas Ferreira,"815 15th Avenue, apt 14, New York",2x Whole grain biscuit,cancelled,"EUR 1.189,43","partial refund, see ticket #4471"
+MKT90029,2026-06-06T12:10:00,BRUNO TAVARES,"472 Flower St, apt 10, New York",2x Wireless mouse; 1x Roasted coffee 500g,CANCELLED,"1343,04",
+MKT90030,05/22/2026 12:00 AM,Thiago Martins   ,"178 King Road, apt 78, london ",1x Wireless mouse,DELIVERED,"EUR 102,96","Leave with the doorman, ""Mr. John"""
+MKT90031,03/21/2026 12:00 AM,Gustavo Pinheiro,"65 Flower St, apt 47, New York","3x Mechanical keyboard; 3x Ballpoint pen, blue",cancelled,"$1,270.34","partial refund, see ticket #4471"
+MKT90032,08/02/2026 12:00 AM,renata barbosa,"510 15th Avenue, apt 115, são paulo",2x Laundry powder 1kg,In transit,$362.58,"Customer asked for delivery
+after 6pm"
+MKT90033,07/27/2026 12:00 AM,Carlos Eduardo Lima,"780 Flower St, apt 90, new york",3x Roasted coffee 500g,awaiting payment,"EUR 1.304,33","partial refund, see ticket #4471"
+MKT90034,2026-04-26T06:08:00,Bruno Tavares,"316 15th Avenue, apt 11, london ",1x Wireless mouse; 2x Laundry powder 1kg; 1x 24-inch monitor,cancelled, 326.82 ,"Customer asked for delivery
+after 6pm"
+MKT90035,2026-06-28T08:33:00,Mariana Castro,"274 King Road, apt 41, new york",3x Whole grain biscuit,CANCELLED,USD893.74,"partial refund, see ticket #4471"
+MKT90036,08/19/2026 12:00 AM,  John Pedro Alves,"163 15th Avenue, apt 19, TORONTO",3x Bluetooth headphones; 1x Mechanical keyboard; 2x Laundry powder 1kg,In transit,"622,37","Leave with the doorman, ""Mr. John"""
+MKT90037,2026-05-10T08:53:00,Renata Barbosa,"415 Flower St, apt 114, London",2x Notebook 200 sheets; 2x Wireless mouse; 1x Neutral detergent 500ml,delivered,(227.55),"Leave with the doorman, ""Mr. John"""
+MKT90038,03/03/2026 12:00 AM,Vanessa Cardoso,"285 15th Avenue, apt 94, london ",1x Mechanical keyboard; 2x Notebook 200 sheets; 3x Neutral detergent 500ml,cancelled, 229.41 ,"partial refund, see ticket #4471"
+MKT90039,05/12/2026 12:00 AM,Priya  Raghavan,"187 Flower St, apt 25, Sao Paulo",1x Notebook 200 sheets,awaiting payment,"1386,92","partial refund, see ticket #4471"
