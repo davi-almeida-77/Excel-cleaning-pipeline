@@ -60,3 +60,5 @@ print(df[["order", "date_raw", "date", "date_error"]].head(20))
 print(f"Total: {len(df)}")
 print(f"Parsed: {df['date'].notna().sum()}")
 print(df[df["date_error"].notna()][["order", "date_raw", "date_error"]])
+
+print.__annotations__()
